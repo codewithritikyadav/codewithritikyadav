@@ -22,7 +22,7 @@
 
 ## ✨ About Me
 
-- 🎓 1st Year **B.Tech CSE (AI & ML)** Student
+- 🎓 2nd Year **B.Tech CSE (AI & ML)** Student
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🌐 Interested in **Web Development**
 - 🐍 Working with **Python**
