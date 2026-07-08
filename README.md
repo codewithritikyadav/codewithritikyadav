@@ -1,111 +1,213 @@
-<h1 align="center">Hi 👋, I'm RITIK YADAV</h1>
+<h1 align="center">Hi 👋, I'm Ritik Yadav</h1>
+
+<h3 align="center">
+🤖 AI & ML Enthusiast • 🐍 Python Developer • ☕ Java Learner • 🌐 Backend Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=AI+Enthusiast;Python+Developer;Future+AI%2FML+Engineer;Building+Projects+Step+by+Step;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+ML+Student;Python+Developer;Backend+Developer;Django+%7C+MongoDB;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  🤖 AI Enthusiast • 🐍 Python Developer • 🧩 Problem Solver
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Machine%20Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-success?style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ritikyadav11741&style=for-the-badge&color=blueviolet"/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-9b5c2e61-9e5f-4a8b-8e65-5f6b0c8b4b0c.gif" width="500">
-</p>
+<img src="https://img.shields.io/github/followers/ritikyadav11741?logo=github&style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/github/stars/ritikyadav11741?style=for-the-badge"/>
 
-## ✨ About Me
-
-- 🎓 2nd Year **B.Tech CSE (AI & ML)** Student
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 🌐 Interested in **Web Development**
-- 🐍 Working with **Python**
-- 💡 Believe in *learning by building real projects*
-- 🚀 Focused on continuous growth and skill development
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### ⚙️ Backend & Programming
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-
-### 📊 Python Libraries
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 🚀 Projects
-
-### 🤖 AI Projects
-- 🧠 **AI Code Reviewer**  
-  AI tool that reviews code and suggests improvements
-
-- 💬 **AI Chatbot**  
-  Chatbot built using Python for conversation and NLP basics
-
-### 🌐 Web Project
-- 🌍 **Portfolio Website**  
-  Personal website built using HTML, CSS, JavaScript
-
----
-
-## 🎯 Current Focus
-
-- 🐍 Strengthening **Python**
-- 🤖 Learning **Machine Learning Basics**
-- 🌐 Building web apps using **Django**
-- 📊 Practicing **NumPy & Pandas**
-- 🚀 Building real-world projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithritikyadav&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithritikyadav&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithritikyadav&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 💫 About Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ritik-yadav-19b4b2388
-- 📧 Email: ritikyadav11741@gmail.com
+🎓 B.Tech CSE (AI & ML)
+
+🏫 Khwaja Moinuddin Chishti Language University
+
+🌐 Web Development Intern @ Zidio Development
+
+🤖 Passionate about AI, Machine Learning and Backend Development
+
+💻 Currently working with
+
+Python • Django • Java • MongoDB • NumPy • Pandas
+
+🚀 Building Real World Projects
 
 ---
 
-## 🌱 Quote I Believe In
+# 💻 Tech Stack
 
-> *“Consistency beats talent when talent doesn’t work consistently.”*
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritikyadav11741&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav11741&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ritikyadav11741&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ritikyadav11741&theme=tokyonight&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav11741&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👨‍💻 3D Contribution
+
+> After creating the GitHub Action, add:
+
+```markdown
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
+```
+
+---
+
+# 🚀 Featured Projects
+
+🧠 AI Code Reviewer
+
+💬 AI Chatbot
+
+📧 Spam Mail Detector
+
+🌸 Iris Flower Classification
+
+🌍 Portfolio Website
+
+⚡ Electrical Edge
+
+---
+
+# 📜 Certifications
+
+🏅 Web Development Internship
+
+🏅 AI/ML Internship
+
+🏅 Python Programming
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Django
+
+✅ Learn Machine Learning
+
+✅ Learn Java DSA
+
+✅ Complete 10+ Projects
+
+✅ Open Source Contribution
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ritik-yadav-19b4b2388">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:ritikyadav11741@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://github.com/ritikyadav11741">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+# ☕ Coding
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **Consistency beats talent when talent doesn't work consistently.**
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
