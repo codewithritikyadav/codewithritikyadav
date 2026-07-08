@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ritik Yadav</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00F5FF;">Ritik Yadav</span>
+</h1>
 
 <h3 align="center">
 🤖 AI & ML Enthusiast • 🐍 Python Developer • ☕ Java Learner • 🌐 Backend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%26+ML+Student;Python+Developer;Backend+Developer;Django+%7C+MongoDB;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Backend+Developer;Django+%7C+MongoDB;Java+DSA+Learner;Building+Real+World+Projects;Always+Learning+Something+New" />
 </p>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ritikyadav11741&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=codewithritikyadav&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/ritikyadav11741?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/codewithritikyadav?logo=github&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/ritikyadav11741?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/codewithritikyadav?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge"/>
 
 </p>
 
@@ -22,25 +26,33 @@
 
 # 💫 About Me
 
-🎓 B.Tech CSE (AI & ML)
+🎓 **2nd Year B.Tech CSE (AI & ML)**
 
-🏫 Khwaja Moinuddin Chishti Language University
+🏫 Khwaja Moinuddin Chishti Language University, Lucknow
 
-🌐 Web Development Intern @ Zidio Development
+💼 **Web Development Intern @ Zidio Development**
 
-🤖 Passionate about AI, Machine Learning and Backend Development
+🤖 Passionate about Artificial Intelligence, Machine Learning and Backend Development
 
-💻 Currently working with
+🌱 Currently learning
 
-Python • Django • Java • MongoDB • NumPy • Pandas
+- Machine Learning
+- Java DSA
+- Django Backend
+- MongoDB
+- REST APIs
 
-🚀 Building Real World Projects
+🚀 Goal
+
+Become an AI/ML Engineer & Backend Developer
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-<p align="center">
+### Languages
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
@@ -48,15 +60,45 @@ Python • Django • Java • MongoDB • NumPy • Pandas
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+</p>
+
+### Frontend
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
 <img src="https://skillicons.dev/icons?i=css"/>
 
+</p>
+
+### Backend
+
+<p>
+
 <img src="https://skillicons.dev/icons?i=django"/>
 
 <img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+### Libraries
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+</p>
+
+### Tools
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -68,75 +110,65 @@ Python • Django • Java • MongoDB • NumPy • Pandas
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ritikyadav11741&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikyadav11741&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ritikyadav11741&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritikyadav11741&theme=tokyonight&column=4&margin-w=15"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikyadav11741&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 👨‍💻 3D Contribution
-
-> After creating the GitHub Action, add:
-
-```markdown
-<p align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
-
-</p>
-```
-
----
-
 # 🚀 Featured Projects
 
-🧠 AI Code Reviewer
+## 🤖 AI Code Reviewer
 
-💬 AI Chatbot
+✔ AI-powered code review
 
-📧 Spam Mail Detector
+✔ Intelligent Suggestions
 
-🌸 Iris Flower Classification
+✔ Django Backend
 
-🌍 Portfolio Website
+✔ Authentication
 
-⚡ Electrical Edge
+✔ AI Integration
+
+---
+
+## 💬 AI Chatbot
+
+Python Chatbot
+
+Natural Language Processing Basics
+
+---
+
+## 📧 Spam Mail Detector
+
+Machine Learning Classification Project
+
+Python + Scikit-Learn
+
+---
+
+## 🌸 Iris Flower Classification
+
+Machine Learning
+
+Classification Algorithms
+
+Data Visualization
+
+---
+
+## 🌐 Portfolio Website
+
+Responsive Personal Portfolio
+
+HTML CSS JavaScript Django
+
+---
+
+## ⚡ Electrical Edge
+
+Django Based eBook Platform
+
+Authentication
+
+Book Management
+
+Payment Ready
 
 ---
 
@@ -150,17 +182,21 @@ Python • Django • Java • MongoDB • NumPy • Pandas
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Goals
 
-✅ Master Django
+✅ Java DSA
 
-✅ Learn Machine Learning
+✅ Advanced Python
 
-✅ Learn Java DSA
+✅ Machine Learning
 
-✅ Complete 10+ Projects
+✅ Django REST Framework
+
+✅ MongoDB
 
 ✅ Open Source Contribution
+
+✅ Build 10+ Projects
 
 ---
 
@@ -180,7 +216,7 @@ Python • Django • Java • MongoDB • NumPy • Pandas
 
 </a>
 
-<a href="https://github.com/ritikyadav11741">
+<a href="https://github.com/codewithritikyadav">
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
@@ -190,7 +226,7 @@ Python • Django • Java • MongoDB • NumPy • Pandas
 
 ---
 
-# ☕ Coding
+# ☕ Coding Mood
 
 <p align="center">
 
@@ -202,12 +238,14 @@ Python • Django • Java • MongoDB • NumPy • Pandas
 
 # 💭 Quote
 
-> **Consistency beats talent when talent doesn't work consistently.**
+> **"Consistency beats talent when talent doesn't work consistently."**
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
 
-</h3>
+*"Code. Learn. Build. Repeat."*
+
+</div>
